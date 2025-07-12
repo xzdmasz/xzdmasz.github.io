@@ -94,7 +94,6 @@
   padding: 10px 20px;
   border-radius: 25px;
   background: linear-gradient(145deg, #f0f0f0, #ffffff);
-  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1), -5px -5px 10px rgba(255, 255, 255, 0.7);
   transition: all 0.3s ease;
   font-size: 0.9rem;
   text-transform: uppercase;
